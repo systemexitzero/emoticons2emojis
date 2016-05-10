@@ -23,7 +23,6 @@
     "commander": "2.9.0",
     "emojipacks": "0.0.4",
     "hipchatter": "0.2.0",
-    "lodash": "3.10.1",
     "write-yaml": "0.2.2"
   },
   "devDependencies": {
